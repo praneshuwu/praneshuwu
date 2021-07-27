@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praneshuwu
 - 👀 I’m interested in React, Express, basically the whole of MERN Stack.
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on anything with Javascript.
 - 📫 How to reach me @pranesh.uwu on instagram
 

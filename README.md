@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @praneshuwu
-- 👀 I’m interested in React, Express, basically the whole of MERN Stack.
+- 👋 Hi, I’m Pranesh
+- 👀 I’m interested in React and everything in its ecosystem.
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on anything with Javascript.
-- 📫 How to reach me @pranesh.uwu on instagram
+- 📫 You can email me @ krishna.pranesh@live.com
+
 
 <!---
 praneshuwu/praneshuwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
